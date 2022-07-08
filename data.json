@@ -1,48 +1,43 @@
 {
 	"projects": [
 		{
-			"projectName": "P1",
+			"projectName": "Réservia",
 			"id": 1,
-			"languages": "HTML / CSS",
+			"languages": ["HTML", "CSS"],
 			"objectif": "Résaliser une maquette pour le web",
-			"linkCode": "https://github.com/LoopDavid/P2_David_pereira",
-			"image": "P1.jpg"
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
-			"projectName": "P2",
+			"projectName": "OhMyFood",
 			"id": 2,
-			"languages": "HTML / CSS",
+			"languages": ["HTML", "CSS"],
 			"objectif": "Résaliser une maquette pour le web",
-			"linkCode": "https://github.com/LoopDavid/P2_David_pereira",
-			"image": "P1.jpg"
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
-			"projectName": "P3",
+			"projectName": "GameOn",
 			"id": 3,
-			"languages": "HTML / CSS",
+			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Résaliser une maquette pour le web",
-			"linkCode": "https://github.com/LoopDavid/P2_David_pereira",
-			"image": "P1.jpg"
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
-			"projectName": "P4",
+			"projectName": "FishEyes",
 			"id": 4,
-			"languages": "HTML / CSS",
+			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Résaliser une maquette pour le web",
-			"linkCode": "https://github.com/LoopDavid/P2_David_pereira",
-			"image": "P1.jpg"
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
-			"projectName": "P5",
+			"projectName": "Les petits plats",
 			"id": 5,
-			"languages": "HTML / CSS",
+			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Résaliser une maquette pour le web",
-			"linkCode": "https://github.com/LoopDavid/P2_David_pereira",
-			"image": "P1.jpg"
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		}
 		
 	],
-    "Medias": [
+    "medias": [
         {
             "id": 1,
             "projectName": "P1",
