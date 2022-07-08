@@ -41,31 +41,31 @@
         {
             "id": 1,
             "projectName": "P1",
-            "image": "https://www.hide-algo.com/photos/reservia.jpg"
+            "image": "https://www.hide-algo.com/photos/reservia.png"
             
         },
         {
             "id": 2,
             "projectName": "P2",
-            "image": "https://www.hide-algo.com/photos/ohmyfood.jpg"
+            "image": "https://www.hide-algo.com/photos/ohmyfood.png"
             
         },
         {
             "id": 3,
             "projectName": "P3",
-            "image": "https://www.hide-algo.com/photos/gameon.jpg"
+            "image": "https://www.hide-algo.com/photos/gameon.png"
             
         },
         {
             "id": 4,
             "projectName": "P4",
-            "image": "https://www.hide-algo.com/photos/fisheyes.jpg"
+            "image": "https://www.hide-algo.com/photos/fisheyes.png"
             
         },
         {
             "id": 5,
             "projectName": "P5",
-            "image": "https://www.hide-algo.com/photos/lespetitsplats.jpg"
+            "image": "https://www.hide-algo.com/photos/lespetitsplats.png"
             
         }
     ]
