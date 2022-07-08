@@ -4,36 +4,36 @@
 			"projectName": "Réservia",
 			"id": 1,
 			"languages": ["HTML", "CSS"],
-			"objectif": "Résaliser une maquette pour le web",
+			"objectif": "Transformer une maquette en site web avec HTML & CSS",
 			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
 			"projectName": "OhMyFood",
 			"id": 2,
 			"languages": ["HTML", "CSS"],
-			"objectif": "Résaliser une maquette pour le web",
-			"code": "https://github.com/LoopDavid/P2_David_pereira"
+			"objectif": "Dynamiser une page web avec des animations CSS",
+			"code": "https://github.com/LoopDavid/P3_David_pereira"
 		},
 		{
 			"projectName": "GameOn",
 			"id": 3,
 			"languages": ["HTML", "CSS", "JavaScript"],
-			"objectif": "Résaliser une maquette pour le web",
-			"code": "https://github.com/LoopDavid/P2_David_pereira"
+			"objectif": "Créer une landing page avec JavaScript",
+			"code": "https://github.com/LoopDavid/GameOn-website-FR"
 		},
 		{
 			"projectName": "FishEyes",
 			"id": 4,
 			"languages": ["HTML", "CSS", "JavaScript"],
-			"objectif": "Résaliser une maquette pour le web",
-			"code": "https://github.com/LoopDavid/P2_David_pereira"
+			"objectif": "Créer un site accessible pour une plateforme de photographe",
+			"code": "https://github.com/LoopDavid/Front-End-Fisheye"
 		},
 		{
 			"projectName": "Les petits plats",
 			"id": 5,
 			"languages": ["HTML", "CSS", "JavaScript"],
-			"objectif": "Résaliser une maquette pour le web",
-			"code": "https://github.com/LoopDavid/P2_David_pereira"
+			"objectif": "Développez un algorithme de recherche avec JavaScript",
+			"code": "https://github.com/LoopDavid/P7_David_Pereira"
 		}
 		
 	],
@@ -41,31 +41,31 @@
         {
             "id": 1,
             "projectName": "P1",
-            "image": "https://www.hide-algo.com/photos/David.jpg"
+            "image": "https://www.hide-algo.com/photos/reservia.jpg"
             
         },
         {
             "id": 2,
             "projectName": "P2",
-            "image": "https://www.hide-algo.com/photos/David.jpg"
+            "image": "https://www.hide-algo.com/photos/ohmyfood.jpg"
             
         },
         {
             "id": 3,
             "projectName": "P3",
-            "image": "https://www.hide-algo.com/photos/David.jpg"
+            "image": "https://www.hide-algo.com/photos/gameon.jpg"
             
         },
         {
             "id": 4,
             "projectName": "P4",
-            "image": "https://www.hide-algo.com/photos/David.jpg"
+            "image": "https://www.hide-algo.com/photos/fisheyes.jpg"
             
         },
         {
             "id": 5,
             "projectName": "P5",
-            "image": "https://www.hide-algo.com/photos/David.jpg"
+            "image": "https://www.hide-algo.com/photos/lespetitsplats.jpg"
             
         }
     ]
