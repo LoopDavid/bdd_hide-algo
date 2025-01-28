@@ -5,8 +5,7 @@
 			"id": 1,
 			"languages": ["HTML", "CSS"],
 			"objectif": "Transformer une maquette en site web avec HTML & CSS",
-			"code": "https://github.com/LoopDavid/P2_David_pereira",
-			"website": ""
+			"code": "https://github.com/LoopDavid/P2_David_pereira"
 		},
 		{
 			"projectName": "OhMyFood",
@@ -21,24 +20,21 @@
 			"id": 3,
 			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Créer une landing page avec JavaScript",
-			"code": "https://github.com/LoopDavid/GameOn-website-FR",
-			"website": ""
+			"code": "https://github.com/LoopDavid/GameOn-website-FR"
 		},
 		{
 			"projectName": "FishEyes",
 			"id": 4,
 			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Créer un site accessible pour une plateforme de photographe",
-			"code": "https://github.com/LoopDavid/Front-End-Fisheye",
-			"website": ""
+			"code": "https://github.com/LoopDavid/Front-End-Fisheye"
 		},
 		{
 			"projectName": "Les petits plats",
 			"id": 5,
 			"languages": ["HTML", "CSS", "JavaScript"],
 			"objectif": "Développez un algorithme de recherche avec JavaScript",
-			"code": "https://github.com/LoopDavid/P7_David_Pereira",
-			"website": ""
+			"code": "https://github.com/LoopDavid/P7_David_Pereira"
 		}
 		
 	],
